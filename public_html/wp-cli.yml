@@ -1,0 +1,3 @@
+_:
+    merge: true
+    inherit: ../wp-cli.yml
